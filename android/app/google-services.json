@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190238526103",
+    "project_id": "freshyveg-e92c6",
+    "storage_bucket": "freshyveg-e92c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190238526103:android:9c7104ee565ee17c0177d2",
+        "android_client_info": {
+          "package_name": "com.userapp.vegfreshy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190238526103-pim6vcjta9perslo180sl24ghgt511q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.userapp.vegfreshy",
+            "certificate_hash": "cc41fd5e21f5547c7e9550156d4e5fb594561977"
+          }
+        },
+        {
+          "client_id": "190238526103-h54sm8lv96otsq47qg6sm4fcfmento7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCGizq3o43sndgjLO94bNLLf9_pLXnxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190238526103-h54sm8lv96otsq47qg6sm4fcfmento7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
